@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/lightwrath/Projects/onnimanni-app/test'
+let g:netrw_dirhist_8='/Users/lightwrath/Projects/onnimanni-app'
+let g:netrw_dirhist_7='/Users/lightwrath/Projects/onnimanni-app/src/server/lib/posting-api-client'
+let g:netrw_dirhist_6='/Users/lightwrath/Projects/onnimanni-app/src/server/lib'
+let g:netrw_dirhist_5='/Users/lightwrath/Projects/onnimanni-app/src/server'
+let g:netrw_dirhist_4='/Users/lightwrath/Projects/onnimanni-app/src'
+let g:netrw_dirhist_3='/Users/lightwrath/Projects/onnimanni-app'
+let g:netrw_dirhist_2='/Users/lightwrath/Projects/onnimanni-app/test'
+let g:netrw_dirhist_1='/Users/lightwrath/Projects/onnimanni-app'
+let g:netrw_dirhist_0='/Users/lightwrath/Projects/onnimanni-app/src/server/lib/posting-api-client'
