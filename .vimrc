@@ -18,3 +18,5 @@ Plug 'neoclide/coc.nvim'
 Plug 'sheerun/vim-polyglot'
 
 call plug#end()
+" On init run :InsallPlug; :CocInstall coc-tsserver coc-rome coc-highlight
+" coc-json
