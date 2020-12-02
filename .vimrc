@@ -3,7 +3,7 @@ filetype plugin on
 set path+=** " For vim built in fuzzy :find
 set wildmenu " For tab menu when using :find files
 set background=dark
-set relativenumber
+set number! relativenumber!
 set omnifunc=syntaxcomplete#Complete
 set tabstop=2
 set softtabstop=2
